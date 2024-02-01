@@ -29,7 +29,7 @@ Example:
 ## Github
 There are many repos with greate content / links. Some of them 👇
 Suggestion: Just search [data engineering](https://github.com/search?q=data+engineering&type=repositories&s=stars&o=desc) and find the best ones, 
-- [Data Engineer Handbook](https://github.com/DataEngineer-io/data-engineer-handbook) -> One example out of many
+- [Data Engineer Handbook](https://github.com/DataEngineer-io/data-engineer-handbook) <-- One example out of many
 
 ## Cloud Computing
 <img width="702" alt="image" src="https://github.com/sudarshan-koirala/data-engineering-resources/assets/14214659/5cdc67e9-ee07-420c-9a72-ac96a20ff2fd">
