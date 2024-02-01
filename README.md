@@ -10,14 +10,14 @@ Repo with data engineering resources
 ## Choose between
 - [Databricks](https://www.databricks.com/) and [Snowflake](https://www.snowflake.com/en/)
 
+## Modern Open Source Data Stack
+<img width="827" alt="image" src="https://github.com/sudarshan-koirala/data-engineering-resources/assets/14214659/c5431fb4-d3b5-47fd-9a58-82f0cdad8416">
+---
 > Do some research on what sorts of company you want to apply job and what tools they use ( you can achieve this by just going through the job description of those companies)
 Example:
 - [Netflix](https://jobs.netflix.com/jobs/314022739)
 - [Facebook](https://www.metacareers.com/v2/jobs/9852899174780718/)
 - [KONE](https://kone.wd3.myworkdayjobs.com/en-US/Careers/job/Data-Engineer_R0632051)
-
-## Modern Open Source Data Stack
-<img width="827" alt="image" src="https://github.com/sudarshan-koirala/data-engineering-resources/assets/14214659/c5431fb4-d3b5-47fd-9a58-82f0cdad8416">
 ---
 
 ## Books
