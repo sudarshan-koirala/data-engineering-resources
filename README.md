@@ -4,6 +4,7 @@ Repo with data engineering resources
 - To be clear, this is not a roadmap for `getting started` with Data Engineering.
 - I am not covering the books you should study, university studies, certificates, etc.
 - I assume you have satisfactory understanding of `Python` and `SQL`. `Scala` good to have.
+- Having basics understanding of CI/CD is needed ( There is DevOps / MLOps to help offcourse )
 - After knowing the basics and how things work, it's upon you, what to do ( Or lets say if it's your cup of tea / coffee or not )
 > Remember one thing, `knowing` and `implementing` Data Engineering tools are different thing, try to `implement` if it is a simple program or project.
 
