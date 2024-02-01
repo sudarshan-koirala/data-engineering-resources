@@ -12,7 +12,9 @@ Repo with data engineering resources
 
 ## Modern Open Source Data Stack
 <img width="827" alt="image" src="https://github.com/sudarshan-koirala/data-engineering-resources/assets/14214659/c5431fb4-d3b5-47fd-9a58-82f0cdad8416">
+
 ---
+
 > Do some research on what sorts of company you want to apply job and what tools they use ( you can achieve this by just going through the job description of those companies)
 Example:
 - [Netflix](https://jobs.netflix.com/jobs/314022739)
