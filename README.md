@@ -33,7 +33,9 @@ Suggestion: Just search [data engineering](https://github.com/search?q=data+engi
 - [Data Engineer Handbook](https://github.com/DataEngineer-io/data-engineer-handbook) <-- One example out of many
 
 ## Cloud Computing
-<img width="702" alt="image" src="https://github.com/sudarshan-koirala/data-engineering-resources/assets/14214659/5cdc67e9-ee07-420c-9a72-ac96a20ff2fd">
+- [AWS](https://aws.amazon.com/)
+- [Google Cloud](https://cloud.google.com/)
+- [Azure](https://azure.microsoft.com/en-us)
 
 
 ## Youtube ( Free University )
